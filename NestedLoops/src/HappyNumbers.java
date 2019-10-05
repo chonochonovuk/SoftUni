@@ -1,0 +1,25 @@
+import java.util.Scanner;
+
+public class HappyNumbers {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        int N = Integer.parseInt(scanner.nextLine());
+
+        for(int a = 1; a <= 9; a++ ){
+            for(int b = 1; b <= 9; b++){
+                if(N%(a + b) != 0){
+                    continue;
+                }
+                for(int c = 1;c <= 9;c++){
+                    for(int d = 1;d <= 9;d++){
+                        if((a + b) != (c + d)){
+                            continue;
+                        }
+
+                        System.out.printf("%d%d%d%d ",a,b,c,d);
+                    }
+                }
+            }
+        }
+    }
+}
