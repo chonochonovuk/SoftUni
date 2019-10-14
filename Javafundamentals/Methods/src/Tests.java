@@ -27,7 +27,7 @@ public class Tests {
  */
 
 
-       String test = "0 0 0 0";
+     /*  String test = "0 0 0 0";
        test = test.replace(" ","");
        test = test.replace("0", "");
 
@@ -40,6 +40,8 @@ public class Tests {
 
         System.out.println(test);
         System.out.println(Zeros);
+*/
+
 
 
     }
