@@ -23,6 +23,7 @@ public class SoftUniExamSubmissions {
 
 
         for (Map.Entry<String, List<Integer>> stuPoint : namePoints.entrySet()) {
+            Collections.sort(stuPoint.getValue());
             Collections.reverse(stuPoint.getValue());
         }
 
