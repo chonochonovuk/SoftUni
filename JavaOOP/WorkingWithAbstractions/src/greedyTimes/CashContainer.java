@@ -13,10 +13,7 @@ public class CashContainer {
     }
 
     public long getSize(){
-        return this.cashMap.values()
-                .stream()
-                .mapToLong(e -> e)
-                .sum();
+        return totalValues;
     }
     public void puCashInCashContainer(String item,long value){
         this.cashMap.put(item,value);

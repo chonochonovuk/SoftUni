@@ -1,7 +1,7 @@
 package greedyTimes;
 
 public class Gold {
-    private long value = 0;
+    private long value;
 
     public void addValue(long value){
         this.value += value;

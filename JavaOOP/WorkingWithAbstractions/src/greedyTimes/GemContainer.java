@@ -12,10 +12,7 @@ public class GemContainer {
     }
 
     public long getSize(){
-        return this.gemMap.values()
-                .stream()
-                .mapToLong(e -> e)
-                .sum();
+        return totalValues;
     }
 
     public Map<String, Long> getGemMap() {
