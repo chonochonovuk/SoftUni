@@ -13,7 +13,7 @@ public class Animal {
 
     private void setName(String name) {
         if (name == null || name.trim().isEmpty()) {
-            throw new IllegalArgumentException("Invalid input!");
+            throw new IllegalArgumentException();
         }
 
         this.name = name;
@@ -21,17 +21,15 @@ public class Animal {
 
     private void setAge(int age) {
         if (age <= 0) {
-            throw new IllegalArgumentException("Invalid input!");
+            throw new IllegalArgumentException();
         }
 
         this.age = age;
     }
 
     private void setGender(String gender) {
-        if (!(gender.toLowerCase().equals("male")
-                || gender.toLowerCase().equals("female"))) {
-
-            throw new IllegalArgumentException("Invalid input!");
+        if (gender == null || gender.trim().isEmpty()) {
+            throw new IllegalArgumentException();
         }
 
         this.gender = gender;

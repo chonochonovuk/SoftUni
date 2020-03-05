@@ -10,29 +10,10 @@ public class Main {
         while (!"Beast!".equals(animalType = scanner.nextLine())){
             String[] animalTokens = scanner.nextLine().split("\\s+");
             try {
-                Animal animal;
-                if ("Cat".equals(animalType)) {
-                    animal = new Cat(animalTokens[0], Integer.parseInt(animalTokens[1]), animalTokens[2]);
-
-                } else if ("Kitten".equals(animalType)) {
-                    animal = new Kitten(animalTokens[0], Integer.parseInt(animalTokens[1]));
-
-                } else if ("Dog".equals(animalType)) {
-                    animal = new Dog(animalTokens[0], Integer.parseInt(animalTokens[1]), animalTokens[2]);
-
-                } else if ("Tomcat".equals(animalType)) {
-                    animal = new Tomcat(animalTokens[0], Integer.parseInt(animalTokens[1]));
-
-                } else {
-                    animal = new Frog(animalTokens[0], Integer.parseInt(animalTokens[1]), animalTokens[2]);
-                }
-
+                Animal animal = newAnimal(animalType, animalTokens);
                 System.out.println(animal);
                 animal.produceSound();
-
-            }catch (IllegalArgumentException iae){
-                System.out.println(iae.getMessage());
-            }catch (IndexOutOfBoundsException ex){
+            }catch (Exception iae){
                 System.out.println("Invalid input!");
             }
 
@@ -53,7 +34,7 @@ public class Main {
             case "Frog":
                 return new Frog(animalTokens[0], Integer.parseInt(animalTokens[1]), animalTokens[2]);
             default:
-                throw new IllegalArgumentException("Invalid input!");
+                throw new IllegalArgumentException();
         }
     }
 
