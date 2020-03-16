@@ -6,11 +6,13 @@ import java.util.List;
 public class Pizza {
   private String name;
   private Dough dought;
+  private int numberOfToppings;
   private List<Topping> toppings;
 
   public Pizza(String name, int numberOfToppings) {
     this.setName(name);
     this.setToppings(numberOfToppings);
+    this.toppings = new ArrayList<>();
   }
 
   public double getOverallCalories (){
@@ -20,6 +22,9 @@ public class Pizza {
   }
 
   public void addTopping(Topping topping){
+    if (this.toppings.size() == this.numberOfToppings){
+      return;
+    }
       this.toppings.add(topping);
 
   }
@@ -28,7 +33,7 @@ public class Pizza {
     if (numberOfToppings < 0 || numberOfToppings > 10){
       throw new IllegalArgumentException("Number of toppings should be in range [0..10].");
     }
-    this.toppings = new ArrayList<>(numberOfToppings);
+    this.numberOfToppings = numberOfToppings;
   }
 
   public String getName() {
