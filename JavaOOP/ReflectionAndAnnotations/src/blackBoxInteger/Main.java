@@ -10,9 +10,9 @@ public class Main {
     public static void main(String[] args) throws NoSuchMethodException, IllegalAccessException, InvocationTargetException, InstantiationException, NoSuchFieldException {
         Scanner scanner = new Scanner(System.in);
         Class<BlackBoxInt> boxInt = BlackBoxInt.class;
-        Constructor<BlackBoxInt> ctor = boxInt.getDeclaredConstructor();
+        Constructor<BlackBoxInt> ctor = boxInt.getDeclaredConstructor(int.class);
         ctor.setAccessible(true);
-        BlackBoxInt box = ctor.newInstance();
+        BlackBoxInt box = ctor.newInstance(0);
 
         String command;
         while (!"END".equals(command = scanner.nextLine())){

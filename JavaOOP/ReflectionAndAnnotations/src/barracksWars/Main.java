@@ -1,5 +1,6 @@
 package barracksWars;
 
+import barracksWars.core.commands.CommandInterpreterImpl;
 import barracksWars.interfaces.Repository;
 import barracksWars.interfaces.Runnable;
 import barracksWars.interfaces.UnitFactory;
@@ -10,10 +11,11 @@ import barracksWars.data.UnitRepository;
 public class Main {
 
     public static void main(String[] args) {
-        Repository repository = new UnitRepository();
-        UnitFactory unitFactory = new UnitFactoryImpl();
 
-        Runnable engine = new Engine(repository, unitFactory);
+        UnitFactory unitFactory = new UnitFactoryImpl();
+        Repository repository = new UnitRepository();
+
+        Runnable engine = new Engine(new CommandInterpreterImpl(unitFactory,repository));
         engine.run();
     }
 }
