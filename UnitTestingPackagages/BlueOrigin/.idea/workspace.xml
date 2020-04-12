@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="df0fde91-780c-426c-887c-792ee1925b55" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aHNEDOz6bFpZopXYOS05UKw0jf" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RunManager" selected="JUnit.SpaceshipTests">
+    <configuration name="SpaceshipTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BlueOrigin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="blueOrigin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="blueOrigin" />
+      <option name="MAIN_CLASS_NAME" value="blueOrigin.SpaceshipTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpaceshipTests.testGetCount" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BlueOrigin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="blueOrigin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="blueOrigin" />
+      <option name="MAIN_CLASS_NAME" value="blueOrigin.SpaceshipTests" />
+      <option name="METHOD_NAME" value="testGetCount" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpaceshipTests.testIfTryToAddAstronautsMoreThanCapacity" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BlueOrigin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="blueOrigin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="blueOrigin" />
+      <option name="MAIN_CLASS_NAME" value="blueOrigin.SpaceshipTests" />
+      <option name="METHOD_NAME" value="testIfTryToAddAstronautsMoreThanCapacity" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpaceshipTests.testIfTryToAddSameAstronautsMoreThanOnce" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BlueOrigin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="blueOrigin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="blueOrigin" />
+      <option name="MAIN_CLASS_NAME" value="blueOrigin.SpaceshipTests" />
+      <option name="METHOD_NAME" value="testIfTryToAddSameAstronautsMoreThanOnce" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpaceshipTests.testRemoveAnAstronauts" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BlueOrigin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="blueOrigin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="blueOrigin" />
+      <option name="MAIN_CLASS_NAME" value="blueOrigin.SpaceshipTests" />
+      <option name="METHOD_NAME" value="testRemoveAnAstronauts" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SpaceshipTests" />
+        <item itemvalue="JUnit.SpaceshipTests.testGetCount" />
+        <item itemvalue="JUnit.SpaceshipTests.testRemoveAnAstronauts" />
+        <item itemvalue="JUnit.SpaceshipTests.testIfTryToAddSameAstronautsMoreThanOnce" />
+        <item itemvalue="JUnit.SpaceshipTests.testIfTryToAddAstronautsMoreThanCapacity" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="df0fde91-780c-426c-887c-792ee1925b55" name="Default Changelist" comment="" />
+      <created>1586388445179</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586388445179</updated>
+      <workItem from="1586388446364" duration="1249000" />
+      <workItem from="1586440182765" duration="671000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="779" y="237" width="424" height="601" key="FileChooserDialogImpl" timestamp="1586440905752">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="779" y="237" width="424" height="601" key="FileChooserDialogImpl/65.24.1855.1056@65.24.1855.1056" timestamp="1586440905752" />
+    <state width="1809" height="296" key="GridCell.Tab.0.bottom" timestamp="1586389695625">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1809" height="296" key="GridCell.Tab.0.bottom/65.24.1855.1056/65.24.1855.1056@65.24.1855.1056" timestamp="1586389695625" />
+    <state width="1809" height="296" key="GridCell.Tab.0.center" timestamp="1586389695625">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1809" height="296" key="GridCell.Tab.0.center/65.24.1855.1056/65.24.1855.1056@65.24.1855.1056" timestamp="1586389695625" />
+    <state width="1809" height="296" key="GridCell.Tab.0.left" timestamp="1586389695625">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1809" height="296" key="GridCell.Tab.0.left/65.24.1855.1056/65.24.1855.1056@65.24.1855.1056" timestamp="1586389695625" />
+    <state width="1809" height="296" key="GridCell.Tab.0.right" timestamp="1586389695625">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1809" height="296" key="GridCell.Tab.0.right/65.24.1855.1056/65.24.1855.1056@65.24.1855.1056" timestamp="1586389695625" />
+    <state x="583" y="238" width="1044" height="600" key="NewModule_or_Project.wizard" timestamp="1586440953504">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="583" y="238" width="1044" height="600" key="NewModule_or_Project.wizard/65.24.1855.1056@65.24.1855.1056" timestamp="1586440953504" />
+    <state x="480" y="117" key="SettingsEditor" timestamp="1586388528133">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="480" y="117" key="SettingsEditor/65.24.1855.1056/65.24.1855.1056@65.24.1855.1056" timestamp="1586388528133" />
+  </component>
+</project>

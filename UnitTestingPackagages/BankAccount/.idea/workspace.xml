@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9f002e68-4700-4cee-a65b-d69b53b8977f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aEWV3p6iVPj6k4mixZkd7G8Y26" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554916584736" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_opened_file_path" value="$USER_HOME$/IdeaProjects/SoftUni/JavaOOP/JavaOOPExam" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="JUnit.BankAccountTest">
+    <configuration name="BankAccountTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BankAccount" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bankAccount.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="bankAccount" />
+      <option name="MAIN_CLASS_NAME" value="bankAccount.BankAccountTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BankAccountTest.testDepositWithPositiveAmount" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BankAccount" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bankAccount.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="bankAccount" />
+      <option name="MAIN_CLASS_NAME" value="bankAccount.BankAccountTest" />
+      <option name="METHOD_NAME" value="testDepositWithPositiveAmount" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BankAccountTest.testGetBalance" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BankAccount" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bankAccount.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="bankAccount" />
+      <option name="MAIN_CLASS_NAME" value="bankAccount.BankAccountTest" />
+      <option name="METHOD_NAME" value="testGetBalance" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BankAccountTest.testWithdrawIfMoreThanBalance" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BankAccount" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bankAccount.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="bankAccount" />
+      <option name="MAIN_CLASS_NAME" value="bankAccount.BankAccountTest" />
+      <option name="METHOD_NAME" value="testWithdrawIfMoreThanBalance" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BankAccountTest.testWithdrawOfPositiveAmount" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BankAccount" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bankAccount.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="bankAccount" />
+      <option name="MAIN_CLASS_NAME" value="bankAccount.BankAccountTest" />
+      <option name="METHOD_NAME" value="testWithdrawOfPositiveAmount" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BankAccountTest" />
+        <item itemvalue="JUnit.BankAccountTest.testWithdrawIfMoreThanBalance" />
+        <item itemvalue="JUnit.BankAccountTest.testGetBalance" />
+        <item itemvalue="JUnit.BankAccountTest.testWithdrawOfPositiveAmount" />
+        <item itemvalue="JUnit.BankAccountTest.testDepositWithPositiveAmount" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9f002e68-4700-4cee-a65b-d69b53b8977f" name="Default Changelist" comment="" />
+      <created>1586301253868</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586301253868</updated>
+      <workItem from="1586301255193" duration="3080000" />
+      <workItem from="1586338305587" duration="490000" />
+      <workItem from="1586338822912" duration="19000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="780" y="238" width="424" height="482" key="FileChooserDialogImpl" timestamp="1586338838630">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="780" y="238" width="424" height="482" key="FileChooserDialogImpl/65.24.1855.1056@65.24.1855.1056" timestamp="1586338838630" />
+    <state width="1809" height="296" key="GridCell.Tab.0.bottom" timestamp="1586304335451">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1809" height="296" key="GridCell.Tab.0.bottom/65.24.1855.1056@65.24.1855.1056" timestamp="1586304335451" />
+    <state width="1809" height="296" key="GridCell.Tab.0.center" timestamp="1586304335451">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1809" height="296" key="GridCell.Tab.0.center/65.24.1855.1056@65.24.1855.1056" timestamp="1586304335451" />
+    <state width="1809" height="296" key="GridCell.Tab.0.left" timestamp="1586304335450">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1809" height="296" key="GridCell.Tab.0.left/65.24.1855.1056@65.24.1855.1056" timestamp="1586304335450" />
+    <state width="1809" height="296" key="GridCell.Tab.0.right" timestamp="1586304335451">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1809" height="296" key="GridCell.Tab.0.right/65.24.1855.1056@65.24.1855.1056" timestamp="1586304335451" />
+    <state x="583" y="238" width="853" height="600" key="NewModule_or_Project.wizard" timestamp="1586338810618">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="583" y="238" width="853" height="600" key="NewModule_or_Project.wizard/65.24.1855.1056@65.24.1855.1056" timestamp="1586338810618" />
+    <state x="480" y="116" key="SettingsEditor" timestamp="1586301398229">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="480" y="116" key="SettingsEditor/65.24.1855.1056@65.24.1855.1056" timestamp="1586301398229" />
+    <state x="305" y="140" width="1372" height="796" key="new project wizard" timestamp="1586338734657">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="305" y="140" width="1372" height="796" key="new project wizard/65.24.1855.1056@65.24.1855.1056" timestamp="1586338734657" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/BankAccount$BankAccountTest.ic" NAME="BankAccountTest Coverage Results" MODIFIED="1586302506917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>bankAccount.*</FILTER>
+    </SUITE>
+  </component>
+</project>

@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="948ac6f5-790b-4caf-bf42-a659d971fbdf" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aMVsmN99Bd3jT9GrRUlzPHPLEd" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/IdeaProjects/SoftUni/JavaOOP/JavaOOPExam" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="JUnit.AquariumTests.testConstructorWithValidStates">
+    <configuration name="AquariumTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="03. Unit Testing_Skeleton" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aquarium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="aquarium" />
+      <option name="MAIN_CLASS_NAME" value="aquarium.AquariumTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AquariumTests.testConstructorWithValidStates" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="03. Unit Testing_Skeleton" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aquarium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="aquarium" />
+      <option name="MAIN_CLASS_NAME" value="aquarium.AquariumTests" />
+      <option name="METHOD_NAME" value="testConstructorWithValidStates" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AquariumTests.testGetCount" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="03. Unit Testing_Skeleton" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aquarium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="aquarium" />
+      <option name="MAIN_CLASS_NAME" value="aquarium.AquariumTests" />
+      <option name="METHOD_NAME" value="testGetCount" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AquariumTests.testReport" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="03. Unit Testing_Skeleton" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aquarium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="aquarium" />
+      <option name="MAIN_CLASS_NAME" value="aquarium.AquariumTests" />
+      <option name="METHOD_NAME" value="testReport" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AquariumTests.testSellRightFish" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="03. Unit Testing_Skeleton" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aquarium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="aquarium" />
+      <option name="MAIN_CLASS_NAME" value="aquarium.AquariumTests" />
+      <option name="METHOD_NAME" value="testSellRightFish" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AquariumTests.testConstructorWithValidStates" />
+        <item itemvalue="JUnit.AquariumTests.testSellRightFish" />
+        <item itemvalue="JUnit.AquariumTests.testGetCount" />
+        <item itemvalue="JUnit.AquariumTests" />
+        <item itemvalue="JUnit.AquariumTests.testReport" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="948ac6f5-790b-4caf-bf42-a659d971fbdf" name="Default Changelist" comment="" />
+      <created>1575963363468</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575963363468</updated>
+      <workItem from="1575963366700" duration="539000" />
+      <workItem from="1586545660122" duration="4810000" />
+      <workItem from="1586667939811" duration="599000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="779" y="297" width="424" height="482" key="FileChooserDialogImpl" timestamp="1586671544524">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="779" y="297" width="424" height="482" key="FileChooserDialogImpl/65.24.1855.1056@65.24.1855.1056" timestamp="1586671544524" />
+    <state width="1809" height="296" key="GridCell.Tab.0.bottom" timestamp="1586551600536">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1809" height="296" key="GridCell.Tab.0.bottom/65.24.1855.1056@65.24.1855.1056" timestamp="1586551600536" />
+    <state width="1809" height="296" key="GridCell.Tab.0.center" timestamp="1586551600536">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1809" height="296" key="GridCell.Tab.0.center/65.24.1855.1056@65.24.1855.1056" timestamp="1586551600536" />
+    <state width="1809" height="296" key="GridCell.Tab.0.left" timestamp="1586551600535">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1809" height="296" key="GridCell.Tab.0.left/65.24.1855.1056@65.24.1855.1056" timestamp="1586551600535" />
+    <state width="1809" height="296" key="GridCell.Tab.0.right" timestamp="1586551600536">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1809" height="296" key="GridCell.Tab.0.right/65.24.1855.1056@65.24.1855.1056" timestamp="1586551600536" />
+    <state x="480" y="117" key="SettingsEditor" timestamp="1586545734532">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="480" y="117" key="SettingsEditor/65.24.1855.1056@65.24.1855.1056" timestamp="1586545734532" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/03__Unit_Testing_Skeleton$AquariumTests_testGetCount.ic" NAME="AquariumTests.testGetCount Coverage Results" MODIFIED="1586548365787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>aquarium.*</FILTER>
+    </SUITE>
+  </component>
+</project>
